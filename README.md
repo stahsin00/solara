@@ -3,4 +3,6 @@
 ## Repositories
 
 - [Frontend Repository](https://github.com/stahsin00/solara-frontend)
-- [Backend Repository](https://github.com/stahsin00/solara-backend)
+  
+- [ASP.NET Core Backend Repository](https://github.com/stahsin00/solara-backend)
+- [Node.js Backend Repository (old)](https://github.com/stahsin00/solara-backend-legacy)
